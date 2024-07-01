@@ -1,9 +1,8 @@
 # COD-task4
 
-Name: Abhilash V M
-ID: COD7704
+Name: Devadath A
 Domain: Web Development
-Duration: 5th MAY 2024 to 5th JUNE 2024
+Duration: 25th MAY 2024 to 25th JUNE 2024
 Mentor: Sravani Gouni
 
 Description : The eCommerce web application is a robust and scalable platform designed for buying and selling products online. It is built using a combination of HTML, CSS, Bootstrap, JavaScript, EJS template engine, Node.js, and MongoDB, providing a comprehensive solution for online retail businesses.
